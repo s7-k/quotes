@@ -16,5 +16,5 @@ Alternatively, you can use the quoteTransfer.py program to transfer your quotes 
 
 
 for more contributions and collaboration
-@Sour_truths on X
+https://x.com/Sour_truths on X
 www.linkedin.com/in/charsimon on Linkedin
