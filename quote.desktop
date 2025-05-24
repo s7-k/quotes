@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Daily Quote
+Comment=Get a new quote each time you open this
+Exec=python3 /home/predator/Desktop/project_files/python/finess_ground/screenMsg_display/quote_app.py
+Icon=/home/predator/Desktop/project_files/python/finess_ground/screenMsg_display/quote_icon.png
+Terminal=false
+Type=Application
+Categories=Utility;

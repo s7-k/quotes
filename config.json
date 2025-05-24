@@ -1,0 +1,7 @@
+{
+    "font_type": ["Arial", "Times New Roman", "Courier"],
+    "font_color": ["black", "red", "green", "blue"],
+    "font_size": [2,4,6,8,10],
+    "bold": ["normal","bold"],
+    "uppercase": false
+}

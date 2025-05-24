@@ -1,2 +1,1 @@
-# quotes
-display quotes on system boot
+This Python program displays quotes randomly on the screen after system log-in and has been tested only on kali Linux
